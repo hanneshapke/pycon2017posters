@@ -17,7 +17,7 @@
 | [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/The%20Yosai%20Project%20%20A%20security%20framework%20for%20python%20applications.pdf)   | Darin Gordon                | The Yosai Project:  A security framework for python applications |
 |     | Charles Cossé, Kirby Urner  | Earning with a capital L |
 |     | Evan Hubinger               | Coconut: A Novel Language for Functional Programming in Python |
-| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Python%20for%20Energy%20Policy%20Research%201-2.pdf) [Link 2](https://github.com/hanneshapke/pycon2017posters/blob/master/Python%20for%20Energy%20Policy%20Research%202-2.pdf)  | Anna Liao                  | Python for Energy Policy Research |
+| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Python%20for%20Energy%20Policy%20Research%201-2.pdf) [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Python%20for%20Energy%20Policy%20Research%202-2.pdf)  | Anna Liao                  | Python for Energy Policy Research |
 |     | Meenal Pant                 | PyKids as a Service - Implementation details |
 | [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Exploring%20Resistance%20Genes%20In%20Ocean%20Samples%20Using%20Python.pdf)   | Patricia Vera Wolf          Exploring Resistance Genes In Ocean Samples Using Python |
 | [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/KnightSky%20A%20Chess%20Engine%20that%20learns.pdf)   | Aubhro Sengupta             KnightSky: A Chess Engine that learns |
