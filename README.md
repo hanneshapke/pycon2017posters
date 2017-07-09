@@ -19,19 +19,19 @@
 |     | Evan Hubinger               | Coconut: A Novel Language for Functional Programming in Python |
 | [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Python%20for%20Energy%20Policy%20Research%201-2.pdf) [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Python%20for%20Energy%20Policy%20Research%202-2.pdf)  | Anna Liao                  | Python for Energy Policy Research |
 |     | Meenal Pant                 | PyKids as a Service - Implementation details |
-| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Exploring%20Resistance%20Genes%20In%20Ocean%20Samples%20Using%20Python.pdf)   | Patricia Vera Wolf          Exploring Resistance Genes In Ocean Samples Using Python |
-| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/KnightSky%20A%20Chess%20Engine%20that%20learns.pdf)   | Aubhro Sengupta             KnightSky: A Chess Engine that learns |
-| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Educational%20framework%20for%20constructing%20black%20box%20optimization%20methods%20based%20on%20Python%20modules.pdf)   | Nadia Udler                 Educational framework for constructing black box optimization methods based on Python modules |
-| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Improving%20readability%20of%20online%20content%20by%20removing%20abusive%20speech%20using%20Python.pdf)   | Adyasha Maharana            Improving readability of online content by removing abusive speech using Python |
+| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Exploring%20Resistance%20Genes%20In%20Ocean%20Samples%20Using%20Python.pdf)   | Patricia Vera Wolf         | Exploring Resistance Genes In Ocean Samples Using Python |
+| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/KnightSky%20A%20Chess%20Engine%20that%20learns.pdf)   | Aubhro Sengupta            | KnightSky: A Chess Engine that learns |
+| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Educational%20framework%20for%20constructing%20black%20box%20optimization%20methods%20based%20on%20Python%20modules.pdf)   | Nadia Udler                | Educational framework for constructing black box optimization methods based on Python modules |
+| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Improving%20readability%20of%20online%20content%20by%20removing%20abusive%20speech%20using%20Python.pdf)   | Adyasha Maharana           | Improving readability of online content by removing abusive speech using Python |
 |     | Liam Schumm                 | Ergonomica |
-| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Desmod%20-%20A%20Python%20based%20modeling%20environment.pdf)   | Peter Grayson               Desmod -- A Python based modeling environment |
+| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Desmod%20-%20A%20Python%20based%20modeling%20environment.pdf)   | Peter Grayson              | Desmod -- A Python based modeling environment |
 |     | Mariana Mioto               | Python to save lives in Brazil. |
-| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/IceLab%20A%20Python-based%20framework%20for%20semiconductor%20device%20measurement%20and%20analysis.pdf)   | Arnold van der Wal          IceLab: A Python-based framework for semiconductor device measurement and analysis |
+| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/IceLab%20A%20Python-based%20framework%20for%20semiconductor%20device%20measurement%20and%20analysis.pdf)   | Arnold van der Wal         | IceLab: A Python-based framework for semiconductor device measurement and analysis |
 |     | Marlene Mhangami & Phoebe Chau  | ZimboPy: Empowering Zimbabwean Girls As Change Makers |
 |     | Kerstin Kollmann            | Twitter Bot Basics with Python |
 |     | Maite Giménez               | The Personality of the Snake: Personality Recognition using Convolutional Neural Networks |
-| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Monitoring%20Your%20Plants%20With%20Raspberry%20Pi.pdf)   | Katya Vasilaky and C. Ryan Considine    Monitoring Your Plants With Raspberry Pi |
-| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Making%20Big%20Data%20a%20Little%20Bit%20Smaller.pdf)   | Katya Vasilaky              Making Big Data a Little Bit Smaller |
+| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Monitoring%20Your%20Plants%20With%20Raspberry%20Pi.pdf)   | Katya Vasilaky and C. Ryan Considine   | Monitoring Your Plants With Raspberry Pi |
+| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Making%20Big%20Data%20a%20Little%20Bit%20Smaller.pdf)   | Katya Vasilaky             | Making Big Data a Little Bit Smaller |
 |     | Sheng Wang, Karthik Muthusamy   | nwboot - Automated Package to Provision Network Device(s) |
 | [Link](http://www.django-rest-framework.org/)    | Tom Christie                | Django REST framework |
 |     | Matthew Parmelee            | Training and Using Haar Classifiers in OpenCV |
