@@ -29,7 +29,7 @@
 | [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/IceLab%20A%20Python-based%20framework%20for%20semiconductor%20device%20measurement%20and%20analysis.pdf)   | Arnold van der Wal         | IceLab: A Python-based framework for semiconductor device measurement and analysis |
 |     | Marlene Mhangami & Phoebe Chau  | ZimboPy: Empowering Zimbabwean Girls As Change Makers |
 |     | Kerstin Kollmann            | Twitter Bot Basics with Python |
-| [Link](https://github.com/hanneshapke/pycon2017posters/blob/The%20Personality%20of%20the%20Snake%20Personality%20Recognition%20using%20Convolutional%20Neural%20Networks.pdf)   | Maite Giménez               | The Personality of the Snake: Personality Recognition using Convolutional Neural Networks |
+| [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/The%20Personality%20of%20the%20Snake%20Personality%20Recognition%20using%20Convolutional%20Neural%20Networks.pdf)   | Maite Giménez               | The Personality of the Snake: Personality Recognition using Convolutional Neural Networks |
 | [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Monitoring%20Your%20Plants%20With%20Raspberry%20Pi.pdf)   | Katya Vasilaky and C. Ryan Considine   | Monitoring Your Plants With Raspberry Pi |
 | [Link](https://github.com/hanneshapke/pycon2017posters/blob/master/Making%20Big%20Data%20a%20Little%20Bit%20Smaller.pdf)   | Katya Vasilaky             | Making Big Data a Little Bit Smaller |
 |     | Sheng Wang, Karthik Muthusamy   | nwboot - Automated Package to Provision Network Device(s) |
